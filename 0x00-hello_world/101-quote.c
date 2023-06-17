@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: A program that prints to standard error
  * Return: Always 1 (success)
  */
 int main(void)
